@@ -84,7 +84,8 @@ TRANSLATIONS += \
     ../translations/stacer_kn.ts \
     ../translations/stacer_pt.ts \
     ../translations/stacer_sv.ts \
-    ../translations/stacer_tr.ts
+    ../translations/stacer_tr.ts \
+    ../translations/stacer_zh.ts
 
 RESOURCES += \
     static.qrc
